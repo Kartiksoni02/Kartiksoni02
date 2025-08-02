@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 -->
 
 
-
-
 <h1 align="center">Hi 👋, I'm Kartik Soni</h1>
 <h3 align="center">A passionate Tech Enthusiast from India</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg"
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartiksoni02&label=Profile%20views&color=0e75b6&style=flat" alt="kartiksoni02" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://kartiksoni02.github.io/Portfolio/](https://kartiksoni02.github.io/Portfolio/)
 
@@ -39,3 +38,4 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartiksoni02&show_icons=true&locale=en&layout=compact" alt="kartiksoni02" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartiksoni02&show_icons=true&locale=en" alt="kartiksoni02" /></p>
+
